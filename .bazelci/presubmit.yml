@@ -1,5 +1,5 @@
 ---
-steps:
+tasks:
   centos7:
     shards: 4
     shell_commands:
